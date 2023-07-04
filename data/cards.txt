@@ -1,0 +1,25 @@
+Money 550
+Money 1010
+Money 1250
+Money 1040
+Money 2260
+Money 1160
+Money 1690
+Money 1940
+Money 610
+Money 2300
+Money 1310
+Money 860
+Money 610
+Money 1700
+Money 1910
+Money 1640
+Money 2160
+Money 1010
+Money 1170
+Money 2150
+Money 1760
+Money 1790
+Bankrupt 0
+Lose a Turn 0
+Money 850
